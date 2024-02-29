@@ -1,3 +1,4 @@
+# User Authentication project
 JUST run the <<main.py>>
 otherwise it not gonna work correctly!!!
 
@@ -10,8 +11,8 @@ This repository provides a robust and secure solution for user authentication. I
 
 ***after run <<main.py>> you will see some options: ***
 
-1. sign in: this will add users and hashed password(with bcrypt) into data base.
-2. sign up: this will ask username and password from user and check if it's correct.
+* sign in: this will add users and hashed password(with bcrypt) into data base.
+* sign up: this will ask username and password from user and check if it's correct.
 
 just be careful that it is sensitive to spaces so don not type any un wanted space in  it when you are using it 
 
@@ -24,3 +25,4 @@ This repository contains the source code for the user_manager. You can clone the
 
 Feel free to contribute to the project by submitting pull requests or reporting issues. Your contributions are greatly appreciated!
 
+keep in mind that no programm is 100% flawless. so all pull requests will be appreciated.
