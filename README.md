@@ -1,3 +1,4 @@
+just a simple project for fun
 # User Authentication project
 JUST run the <<main.py>>
 otherwise it not gonna work correctly!!!
