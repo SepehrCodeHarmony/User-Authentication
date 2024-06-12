@@ -1,7 +1,6 @@
 just a simple project for fun
 # User Authentication project
 JUST run the <<main.py>>
-otherwise it not gonna work correctly!!!
 
 This repository provides a robust and secure solution for user authentication. It ensures that user passwords are hashed using standard algorithms, safeguarding sensitive information. Here are the key features:
 
